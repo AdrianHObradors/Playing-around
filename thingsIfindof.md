@@ -10,3 +10,7 @@ lista[:6] == [0,1,2,3,4,5]
 
 lista[3:]==[3,4,5,6]
 
+del(lista[1]): elimina un elemento de la lista. 
+
+
+
